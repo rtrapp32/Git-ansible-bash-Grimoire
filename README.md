@@ -1,7 +1,7 @@
 # Git-ansible-bash-Grimoire
 !\[Session 2 Cover]\([https://i.imgur.com/7rofKsd.jpeg](https://i.imgur.com/7rofKsd.jpeg))
 
-🛠️ Git, Bash & Ansible – Session 2: Tools of the Technomancer
+🛠️ Git, Bash & Ansible – Session 2
 
 Welcome to Session 2 of the Lunch & Learn series!
 
